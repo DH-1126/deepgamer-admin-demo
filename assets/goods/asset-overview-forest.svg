@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">绿色游戏资产概览模拟图</title>
+  <desc id="desc">由属性仪表和道具格组成的虚构游戏资产界面</desc>
+  <defs><linearGradient id="bg" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#064e3b"/><stop offset="1" stop-color="#10b981"/></linearGradient></defs>
+  <rect width="96" height="96" rx="12" fill="url(#bg)"/>
+  <path d="M12 47a28 28 0 0 1 56-1" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" opacity=".18"/>
+  <path d="M12 47a28 28 0 0 1 41-25" fill="none" stroke="#6ee7b7" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="40" cy="47" r="12" fill="#ecfdf5"/><path d="m40 38 3 6 7 .9-5 4.8 1.2 6.8-6.2-3.2-6.2 3.2 1.2-6.8-5-4.8 7-.9z" fill="#059669"/>
+  <rect x="70" y="13" width="17" height="17" rx="5" fill="#ecfdf5"/><path d="M75 25h7l-3.5-8z" fill="#10b981"/>
+  <g><rect x="9" y="65" width="17" height="17" rx="4" fill="#d1fae5"/><rect x="29" y="65" width="17" height="17" rx="4" fill="#a7f3d0"/><rect x="49" y="65" width="17" height="17" rx="4" fill="#6ee7b7"/><rect x="69" y="65" width="17" height="17" rx="4" fill="#34d399"/></g>
+  <g fill="#047857"><circle cx="17.5" cy="73.5" r="4"/><rect x="34" y="69" width="7" height="9" rx="2"/><path d="m57.5 69 5 9h-10z"/><path d="m77.5 69 5 4.5-5 4.5-5-4.5z"/></g>
+  <rect x="9" y="88" width="48" height="4" rx="2" fill="#fff" opacity=".56"/><rect x="62" y="88" width="24" height="4" rx="2" fill="#fff" opacity=".24"/>
+</svg>
